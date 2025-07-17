@@ -1,2 +1,3 @@
-creat test
-creat test1
+create test
+create test1
+create test2
